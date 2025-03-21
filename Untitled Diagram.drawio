@@ -1,38 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1740" dy="2979" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2263" dy="2022" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HweDepV7xHmYjB-6LVF_-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="154" y="-68.25" width="891" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="154" y="80" width="891" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="154" y="243.5" width="878.5" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=light-dark(#ff9500, #cdcdff);" vertex="1" parent="1">
-          <mxGeometry x="160" y="396" width="896" height="154" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-8" value="&lt;p style=&quot;font-weight: var(--ds-font-weight-strong); font-size: 16.002px; line-height: var(--ds-md-line-height); margin: calc(var(--ds-md-zoom)*16px)0 calc(var(--ds-md-zoom)*12px)0; color: light-dark(rgb(64, 64, 64), rgb(182, 182, 182)); text-align: start; text-wrap-mode: wrap;&quot;&gt;&lt;strong&gt;Infrastructure Layer&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="441.5" width="187" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-10" value="&lt;p style=&quot;font-weight: var(--ds-font-weight-strong); line-height: var(--ds-md-line-height); margin: calc(var(--ds-md-zoom)*16px)0 calc(var(--ds-md-zoom)*12px)0; color: light-dark(rgb(64, 64, 64), rgb(182, 182, 182)); text-wrap-mode: wrap;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;line-height: 130%;&quot;&gt;Core Logic Layer&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=14;fontSize=13;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry y="275" width="154" height="55" as="geometry" />
+        <mxCell id="HweDepV7xHmYjB-6LVF_-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-154" width="1172" height="770" as="geometry" />
         </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-11" value="&lt;p style=&quot;font-weight: var(--ds-font-weight-strong); font-size: 16.002px; line-height: var(--ds-md-line-height); margin: calc(var(--ds-md-zoom)*16px)0 calc(var(--ds-md-zoom)*12px)0; color: light-dark(rgb(64, 64, 64), rgb(182, 182, 182)); text-align: start; text-wrap-mode: wrap;&quot;&gt;&lt;strong style=&quot;line-height: 160%;&quot;&gt;User Interaction Layer&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-16.5" y="122.5" width="209" height="44" as="geometry" />
         </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-18" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;&lt;span&gt;UI&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;&lt;strong&gt;Resource System → Building System&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="250" y="97" width="164" height="102.5" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-19" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Input Handling&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="473" y="106.5" width="198" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-20" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Map Rendering&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="106.5" width="221" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-24" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; text-align: left; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Entity System&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="275" width="176" height="60" as="geometry" />
@@ -46,26 +25,11 @@
         <mxCell id="HweDepV7xHmYjB-6LVF_-54" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; text-align: left; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font color=&quot;#dd6422&quot;&gt;Tech Tree&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="275" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16.002px;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;Networking&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16.002px;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;(&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; background-color: transparent;&quot;&gt;TCP/UDP Protocol)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="195" y="436" width="212" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-56" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;&lt;span style=&quot;font-size: 16.002px;&quot;&gt;Local Storage&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="484" y="432" width="212" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-58" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;&lt;span style=&quot;font-size: 16.002px;&quot;&gt;Physics Engine&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="754" y="432" width="187" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-59" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.3105447883279979;arrowSize=0.3216804557746917;" vertex="1" parent="1">
           <mxGeometry x="534" y="198" width="27" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-60" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.3105447883279979;arrowSize=0.3216804557746917;" vertex="1" parent="1">
-          <mxGeometry x="522" y="363" width="27" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-61" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.3105447883279979;arrowSize=0.3216804557746917;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="671" y="199.5" width="27" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-62" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.3105447883279979;arrowSize=0.3216804557746917;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="683.5" y="363" width="27" height="44" as="geometry" />
         </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-70" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.3105447883279979;arrowSize=0.3216804557746917;rotation=-89;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="592.33" y="265.63" width="27" height="78.67" as="geometry" />
@@ -75,12 +39,6 @@
         </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-72" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Mod Support (Custom Units/Maps)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="-55" width="164" height="102.5" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-73" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;&lt;span style=&quot;font-size: 16.002px;&quot;&gt;Multiplayer&lt;/span&gt;&lt;span style=&quot;font-size: 16.002px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507" y="-55" width="164" height="102.5" as="geometry" />
-        </mxCell>
-        <mxCell id="HweDepV7xHmYjB-6LVF_-74" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Analytics&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="765.5" y="-55" width="164" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="HweDepV7xHmYjB-6LVF_-76" value="&lt;p style=&quot;font-size: 16.002px; line-height: var(--ds-md-line-height); margin: calc(var(--ds-md-zoom)*16px)0 calc(var(--ds-md-zoom)*12px)0; color: light-dark(rgb(64, 64, 64), rgb(182, 182, 182)); text-align: start; text-wrap-mode: wrap;&quot;&gt;&lt;b&gt;EXtension Layer&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16.002px; line-height: var(--ds-md-line-height); margin: calc(var(--ds-md-zoom)*16px)0 calc(var(--ds-md-zoom)*12px)0; color: light-dark(rgb(64, 64, 64), rgb(182, 182, 182)); text-align: start; text-wrap-mode: wrap;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry y="-22" width="154" height="55" as="geometry" />
